@@ -1,5 +1,7 @@
 # Gauss_OpenMP
 高斯消去OpenMP实验
+
+
 **x86文件夹**：
 - Guass文件夹存放了高斯消去串行算法与不同线程数下并行优化算法的源码。
 - Blocks_Circles文件夹存放了不同chunk_size下并行算法的源码。
