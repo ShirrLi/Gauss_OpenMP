@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1652787052 source:c:\users\admin\desktop\openmp\openmp_simd\main.cpp
+	<iostream>
+	<windows.h>
+	<omp.h>
+	<stdlib.h>
+	<semaphore.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<immintrin.h>
+	<ammintrin.h>
+

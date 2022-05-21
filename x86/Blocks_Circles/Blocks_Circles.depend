@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652791160 source:c:\users\admin\desktop\openmp\blocks_circles\main.cpp
+	<iostream>
+	<windows.h>
+	<omp.h>
+
